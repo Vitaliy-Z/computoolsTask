@@ -1,11 +1,34 @@
 {
-  "posts": [
+  "test": [
     {
       "id": 1,
-      "title": "hello"
+      "question": "Pick some food",
+      "answers": ["caesar salad", "nuggets", "burger", "chicken sandwich"]
+    },
+    {
+      "id": 2,
+      "question": "Pick a healthy choice",
+      "answers": ["fruit", "salad", "parfait", "pasta salad"]
+    },
+    {
+      "id": 3,
+      "question": "Pick a movie snack",
+      "answers": [
+        "M&M’s",
+        "caramel popcorn",
+        "traditional popcorn",
+        "ice cream"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Pick a fast-food spot",
+      "answers": ["Dunkin’ Donuts", "Wendy’s", "Burger King", "McDonald’s"]
+    },
+    {
+      "id": 5,
+      "question": "Pick some more food",
+      "answers": ["pasta", "chicken", "sandwich", "pizza"]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
