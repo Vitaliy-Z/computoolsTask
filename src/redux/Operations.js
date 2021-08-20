@@ -9,7 +9,7 @@ export const getTest = createAsyncThunk(
   async (_, { rejectWithValue }) => {
     try {
       const { data } = await axios.get("/db");
-      return data;
+      return data.test;
     } catch (error) {
       return rejectWithValue(error);
     }

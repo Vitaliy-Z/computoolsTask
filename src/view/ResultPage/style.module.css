@@ -1,0 +1,24 @@
+.title {
+  margin-bottom: 40px;
+}
+
+.icon {
+  margin-left: 1.5vw;
+}
+
+.text {
+  margin-bottom: 50px;
+  font-size: calc(25px + 2vmin);
+  color: rgb(58, 21, 21);
+  text-shadow: rgba(247, 0, 0, 0.9) 1px 1px 5px;
+}
+
+.link {
+  padding: 10px 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: red;
+  text-shadow: rgb(255 255 255 / 60%) 1px 1px 0;
+  background-color: #3bb3e0;
+  border-radius: 5px;
+}
